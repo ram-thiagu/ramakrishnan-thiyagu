@@ -8,6 +8,6 @@
 - 🖥️ Review my pinned repositories
 
 ### Reach me on
-- 👨‍💼🗣🤝👩‍💼 [Linkedin](https://www.linkedin.com/in/ramakrishnan-thiyagu/)
-- 👨‍🎓📈👨‍💼📈 [Medium](https://ramakrishnanthiyagu10.medium.com/)
-- 🧑💻📄📊 [Kaggle](https://www.kaggle.com/ramakrishnanthiyagu)
+- 👨‍ [Linkedin](https://www.linkedin.com/in/ramakrishnan-thiyagu/)
+- 📄 [Medium](https://ramakrishnanthiyagu10.medium.com/)
+- 📊 [Kaggle](https://www.kaggle.com/ramakrishnanthiyagu)
