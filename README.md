@@ -5,5 +5,9 @@
 - 👯 I’m looking to collaborate on any fresher who passionate on data science 
 - 🤔 I’m looking for help with cloud platform
 - 💬 Ask me about Data Science, Machine learning, statistics
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ramakrishnan-thiyagu/)
-- 📰 Read my blogs on: [Medium](https://ramakrishnanthiyagu10.medium.com/)
+- 🖥️ Review my pinned repositories
+
+### Reach me on
+- 👨‍💼🗣🤝👩‍💼 [Linkedin](https://www.linkedin.com/in/ramakrishnan-thiyagu/)
+- 👨‍🎓📈👨‍💼📈👨‍⚖️ [Medium](https://ramakrishnanthiyagu10.medium.com/)
+- 🧑💻📄📊 [Kaggle](https://www.kaggle.com/ramakrishnanthiyagu)
