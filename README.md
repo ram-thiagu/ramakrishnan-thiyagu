@@ -1,4 +1,4 @@
-### Hi there 👋 This is Ram
+### Hi there 👋 I'm Ram
 
 - 🔭 I’m currently working as a data analyst with "data is good"
 - 🌱 I’m currently learning cloud technologies and heroku
