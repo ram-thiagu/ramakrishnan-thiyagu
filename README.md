@@ -7,9 +7,3 @@
 - 💬 Ask me about Data Science, Machine learning, statistics
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ramakrishnan-thiyagu/)
 - 📰 Read my blogs on: [Medium](https://ramakrishnanthiyagu10.medium.com/)
-
-> dvxdvdsvfd
-> fdsdfcdf
-> sdfsdfsdfds
-> sdsdsdsdds
-> dssddsfdsdsf
